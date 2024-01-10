@@ -1,0 +1,9 @@
+{
+    "createPath" : "http://localhost:8080/api/proveedor/create/",
+    "updatePath" : "http://localhost:8080/api/proveedor/update/",
+    "deletePath" : "http://localhost:8080/api/proveedor/delete/",
+    "findAllPath" : "http://localhost:8080/api/proveedor/findAll",
+    "findMatchPath" : "http://localhost:8080/api/proveedor/findMatch",
+    "updateDocument" : "updateSupplier.html",
+    "tableListDocument" : "supplierList.html"
+}

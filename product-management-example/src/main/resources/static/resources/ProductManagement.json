@@ -1,0 +1,10 @@
+{
+    "createPath" : "http://localhost:8080/api/producto/create/",
+    "updatePath" : "http://localhost:8080/api/producto/update/",
+    "deletePath" : "http://localhost:8080/api/producto/delete/",
+    "findAllPath" : "http://localhost:8080/api/producto/findAll",
+    "findMatchPath" : "http://localhost:8080/api/producto/findMatch",
+    "updateDocument" : "updateProduct.html",
+    "tableListDocument" : "productList.html"
+    
+}
